@@ -2,7 +2,7 @@ import streamlit as st
 
 st.subheader("Introduction:")
 
-st.write("Hello there, I am Deeksha Reddy S, a Data Science Intern at Innomatics Research Labs. This is the first web application that I have created using streamlit. The next page contains information about the diamond dataset that I have chosen for analysis and various visualization charts to understand the data in a better way.")
+st.write("Hello there, I am Deeksha Reddy S, a Data Science Intern at Innomatics Research Labs. This is the first web application that I have created using streamlit. The next page contains information about the diamond dataset that I have chosen for analysis, and various visualization charts to understand the data in a better way.")
 
 st.subheader("Contact Me:")
 
